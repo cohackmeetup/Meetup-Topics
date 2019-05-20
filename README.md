@@ -1,18 +1,23 @@
 # Meetup-Topics
 
-| Event | Date | Speaker | Location | Time |
+| Event | Speaker | Date| Time | Location |
 |-------|------|---------|----------|------|
-| Docker 101      |      |         |          |      |
-| Deploy single webpage on Docker   |      |         |          |      |
-| Dockerfile    |      |         |          |      |
-| Kubernetes 101     |      |         |          |      |
-| Cypress     |      |         |          |      |
-| Tensor flow 101     |      |         |          |      |
-| Deploy Tensor flow on Docker     |      |         |          |      |
-| React 101     |      |         |          |      |
-| Nextjs 101     |      |         |          |      |
-| Responsive with sizeme     |      |         |          |      |
-| Why we need redux?     |      |         |          |      |
-| Design UI with Adobe XD     |      |         |          |      |
-| Deisgn Animation UI with InVision Studio     |      |         |          |      |
-| Blockchain in Docker     |      |         |          |      |
+| Docker 101      |   Jimmy   |         |          |      |
+| Deploy single webpage on Docker   |   Jimmy   |         |          |      |
+| Dockerfile    |   Jimmy/Kun(pending)   |         |          |      |
+| Kubernetes 101     |   Jimmy(pending)   |         |          |      |
+| Cypress     |   Steve/Clivia(pending)   |         |          |      |
+| Tensor flow 101     |   Fabien(pending)   |         |          |      |
+| Deploy Tensor flow on Docker     |   Jimmy(pending)   |         |          |      |
+| React 101     |   Mo   |         |          |      |
+| Nextjs 101     |   Mo   |         |          |      |
+| Responsive with sizeme     |   Mo   |         |          |      |
+| Why we need redux?     |   Mo   |         |          |      |
+| Design UI with Adobe XD     |   Mo   |         |          |      |
+| Deisgn Animation UI with InVision Studio     |   Mo   |         |          |      |
+| Blockchain in Docker     |   Jimmy(pending)   |         |          |      |
+| Gastby 101     |  Peiwen(pending)    |         |          |      |
+| Gastby VS NextJs     |   Peiwen and Mo   |         |          |      |
+| Deploy Rails on Docker     |   Mo   |         |          |      |
+| Speed your works with shortcuts    |   Kun   |         |          |      |
+| Linux 101    |   Kun   |         |          |      |
