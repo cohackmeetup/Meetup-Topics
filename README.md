@@ -21,3 +21,5 @@
 | Deploy Rails on Docker     |   Mo   |         |          |      |
 | Speed your works with shortcuts    |   Kun   |         |          |      |
 | Linux 101    |   Kun   |         |          |      |
+| TaroJs    |   Mo   |         |          |      |
+| React 360   |   Mo   |         |          |      |
